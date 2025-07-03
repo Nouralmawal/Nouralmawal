@@ -36,7 +36,15 @@ All module assessments were completed and passed.
 *Badge issued by [Microsoft Learn](https://learn.microsoft.com)*
 
 
+## 🚧 In Progress: Develop Computer Vision Solutions in Azure
 
+I am currently working through the **"Develop Computer Vision Solutions in Azure"** learning path on [Microsoft Learn](https://learn.microsoft.com).  
+This module explores how to create image classification, object detection, and face recognition solutions using Azure AI Vision.
+
+🔄 Progress:  ✅ Module 1 completed | 🔜 Working on next module  
+📚 Topics: Computer Vision, Azure AI Vision, Image Analysis, Object Detection
+
+*Badge will be shared upon completion.*
 
 
 
