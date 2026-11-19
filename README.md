@@ -1,3 +1,8 @@
+Hi, I'm Nour
+
+Software Engineering Graduate | Aspiring Software Developer
+
+I'm a Software Engineering graduate from Toros University interested in building practical software solutions and exploring new technologies. I enjoy learning, solving problems, and developing applications.
 ### Introduction to AI Concepts
 
 In this module, I explored foundational AI concepts, the types of solutions AI enables, and key principles for responsible AI implementation.
